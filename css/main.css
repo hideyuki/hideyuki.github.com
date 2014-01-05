@@ -57,8 +57,8 @@ a:hover {
   color: #333333;
   text-decoration: underline;
 }
-#main{
-  margin: 40px 10px 50px 10px;
+#contents{
+  padding-bottom: 40px;
 }
 .orange_text {
   color: #ffa500;
@@ -67,5 +67,13 @@ a:hover {
 .head_text {
   font-size: medium;
   font-weight: bolder;
+}
+
+#devider {
+  margin-top: 50px;
+}
+
+#footer {
+  padding-bottom: 40px;
 }
 
